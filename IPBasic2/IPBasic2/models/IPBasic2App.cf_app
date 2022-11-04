@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cofluent:Application xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cofluent="http://cofluent.intel.com/cofluent/1.0.0" xmi:id="_Gb4GsFwmEe2BLLaE9kCPBg" name="IPBasic2App" version="8.1.1_r1_nolic_161" target="" includeInheritedHeader="" inheritanceClass="" callToInheritedConstructors="" cyclePeriod="10 ns" affinity="" priority="0" schedulingPolicy="FIFO" InterfaceBlockingBehavior="RELEASE_CORE" timeSlicePeriod="10 ms" staticCodeSize="0 kB" staticDataSize="0 kB" staticPowerConsumption="0 uW" dynamicPowerConsumption="0 uW" cost="0 USD" dynamicResourceLoad="100" coSimulationType="NONE_COSIM">
+  <annotations xmi:id="_Gc72oFwmEe2BLLaE9kCPBg" source="cdt.configurations">
+    <details xmi:id="_Gc72oVwmEe2BLLaE9kCPBg" key="cofluent.managedbuild.config.gnu.mingw.exe.release.1396278459" value="cdt.configuration.active"/>
+  </annotations>
+  <refinement xsi:type="cofluent:Structure" xmi:id="_Gb4GsVwmEe2BLLaE9kCPBg" name="IPBasic2AppSt">
+    <models xsi:type="cofluent:Function" xmi:id="_HVsDkFwmEe2BLLaE9kCPBg" name="IPBasic2" target="" includeInheritedHeader="" inheritanceClass="" callToInheritedConstructors="" cyclePeriod=" ns" affinity="" priority="0" schedulingPolicy="FIFO" InterfaceBlockingBehavior="RELEASE_CORE" timeSlicePeriod="10 ms" staticCodeSize="0 kB" staticDataSize="0 kB" staticPowerConsumption="0 uW" dynamicPowerConsumption="0 uW" cost="0 USD" dynamicResourceLoad="100" coSimulationType="NONE_COSIM">
+      <refinement xsi:type="cofluent:Behavior" xmi:id="_my4DMFwmEe2BLLaE9kCPBg" name="IPBasic2Bh" firstStatement="_my5RUFwmEe2BLLaE9kCPBg">
+        <statements xsi:type="cofluent:LoopStatement" xmi:id="_my5RUFwmEe2BLLaE9kCPBg" name="Loop" isFirstOf="_my4DMFwmEe2BLLaE9kCPBg" firstStatement="_najHMFwmEe2BLLaE9kCPBg" lastStatement="_najHMFwmEe2BLLaE9kCPBg"/>
+        <statements xsi:type="cofluent:Operation" xmi:id="_najHMFwmEe2BLLaE9kCPBg" name="Operation" isFirstOf="_my5RUFwmEe2BLLaE9kCPBg" isLastOf="_my5RUFwmEe2BLLaE9kCPBg" executionTime="10 ns" dynamicDataSize="0 kB" dynamicPowerConsumption=" uW" dynamicResourceLoad=""/>
+      </refinement>
+    </models>
+  </refinement>
+</cofluent:Application>

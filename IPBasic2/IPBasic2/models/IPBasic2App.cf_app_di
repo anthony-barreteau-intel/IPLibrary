@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmi:id="_Gb4twFwmEe2BLLaE9kCPBg" visible="true" type="CofluentApplication" name="IPBasic2App.cf_app_di#_Gb4GsVwmEe2BLLaE9kCPBg" measurementUnit="Pixel">
+  <children xmi:id="_HVyxQFwmEe2BLLaE9kCPBg" visible="true" type="2004">
+    <children xmi:id="_HVzYUFwmEe2BLLaE9kCPBg" visible="true" type="5011"/>
+    <children xmi:id="_my7GgFwmEe2BLLaE9kCPBg" visible="true" type="3003">
+      <children xmi:id="_my7tkFwmEe2BLLaE9kCPBg" visible="true" type="5015">
+        <layoutConstraint xsi:type="notation:Location" xmi:id="_my7tkVwmEe2BLLaE9kCPBg" x="0" y="5"/>
+      </children>
+      <children xmi:id="_my7tklwmEe2BLLaE9kCPBg" visible="true" type="7002">
+        <children xmi:id="_my7tlVwmEe2BLLaE9kCPBg" visible="true" type="3022">
+          <styles xsi:type="notation:DescriptionStyle" xmi:id="_my7tllwmEe2BLLaE9kCPBg" description=""/>
+          <styles xsi:type="notation:LineStyle" xmi:id="_my7tl1wmEe2BLLaE9kCPBg" lineColor="0" lineWidth="-1"/>
+          <element xsi:nil="true"/>
+          <layoutConstraint xsi:type="notation:Bounds" xmi:id="_my7tmFwmEe2BLLaE9kCPBg" x="91" y="25" width="-1" height="-1"/>
+        </children>
+        <children xmi:id="_my7tmVwmEe2BLLaE9kCPBg" visible="true" type="3017">
+          <children xmi:id="_my7tnlwmEe2BLLaE9kCPBg" visible="true" type="5009">
+            <layoutConstraint xsi:type="notation:Location" xmi:id="_my7tn1wmEe2BLLaE9kCPBg" x="17" y="-8"/>
+          </children>
+          <styles xsi:type="notation:FontStyle" xmi:id="_my7tmlwmEe2BLLaE9kCPBg" fontColor="0" fontName="Segoe UI" fontHeight="8" bold="false" italic="false" underline="false" strikeThrough="false"/>
+          <styles xsi:type="notation:DescriptionStyle" xmi:id="_my7tm1wmEe2BLLaE9kCPBg" description=""/>
+          <styles xsi:type="notation:LineStyle" xmi:id="_my7tnFwmEe2BLLaE9kCPBg" lineColor="0" lineWidth="-1"/>
+          <element href="IPBasic2App.cf_app#_my5RUFwmEe2BLLaE9kCPBg"/>
+          <layoutConstraint xsi:type="notation:Bounds" xmi:id="_my7tnVwmEe2BLLaE9kCPBg" x="79" y="65" width="-1" height="-1"/>
+        </children>
+        <children xmi:id="_nasRIFwmEe2BLLaE9kCPBg" visible="true" type="3016">
+          <children xmi:id="_natfQFwmEe2BLLaE9kCPBg" visible="true" type="5008"/>
+          <styles xsi:type="notation:ShapeStyle" xmi:id="_nasRIVwmEe2BLLaE9kCPBg" fontColor="0" fontName="Segoe UI" fontHeight="8" bold="false" italic="false" underline="false" strikeThrough="false" description="" fillColor="16777215" transparency="-1" lineColor="0" lineWidth="-1" roundedBendpointsRadius="0"/>
+          <element href="IPBasic2App.cf_app#_najHMFwmEe2BLLaE9kCPBg"/>
+          <layoutConstraint xsi:type="notation:Bounds" xmi:id="_nasRIlwmEe2BLLaE9kCPBg" x="73" y="141" width="-1" height="-1"/>
+        </children>
+        <styles xsi:type="notation:SortingStyle" xmi:id="_my7tk1wmEe2BLLaE9kCPBg" sorting="None"/>
+        <styles xsi:type="notation:FilteringStyle" xmi:id="_my7tlFwmEe2BLLaE9kCPBg" filtering="None"/>
+      </children>
+      <styles xsi:type="notation:FontStyle" xmi:id="_my7GgVwmEe2BLLaE9kCPBg" fontColor="0" fontName="Segoe UI" fontHeight="8" bold="false" italic="false" underline="false" strikeThrough="false"/>
+      <styles xsi:type="notation:LineStyle" xmi:id="_my7GglwmEe2BLLaE9kCPBg" lineColor="0" lineWidth="-1"/>
+      <styles xsi:type="notation:DescriptionStyle" xmi:id="_my7Gg1wmEe2BLLaE9kCPBg" description=""/>
+      <element href="IPBasic2App.cf_app#_my4DMFwmEe2BLLaE9kCPBg"/>
+      <layoutConstraint xsi:type="notation:Bounds" xmi:id="_my7GhFwmEe2BLLaE9kCPBg" x="0" y="0" width="-1" height="-1"/>
+    </children>
+    <styles xsi:type="notation:ShapeStyle" xmi:id="_HVyxQVwmEe2BLLaE9kCPBg" fontColor="0" fontName="Segoe UI" fontHeight="8" bold="false" italic="false" underline="false" strikeThrough="false" description="" fillColor="16777215" transparency="-1" lineColor="0" lineWidth="-1" roundedBendpointsRadius="0"/>
+    <styles xsi:type="notation:MultiDiagramLinkStyle" xmi:id="_HVyxQlwmEe2BLLaE9kCPBg"/>
+    <element href="IPBasic2App.cf_app#_HVsDkFwmEe2BLLaE9kCPBg"/>
+    <layoutConstraint xsi:type="notation:Bounds" xmi:id="_HVyxQ1wmEe2BLLaE9kCPBg" x="679" y="140" width="197" height="269"/>
+  </children>
+  <styles xsi:type="notation:DiagramStyle" xmi:id="_Gb4twVwmEe2BLLaE9kCPBg" pageX="0" pageY="0" pageWidth="100" pageHeight="100" description=""/>
+  <element href="IPBasic2App.cf_app#_Gb4GsVwmEe2BLLaE9kCPBg"/>
+  <edges xmi:id="_n2MhYFwmEe2BLLaE9kCPBg" visible="true" type="4003" source="_my7tlVwmEe2BLLaE9kCPBg" target="_my7tmVwmEe2BLLaE9kCPBg">
+    <styles xsi:type="notation:ConnectorStyle" xmi:id="_n2MhYVwmEe2BLLaE9kCPBg" roundedBendpointsRadius="0" routing="Rectilinear" smoothness="None" avoidObstructions="false" closestDistance="false" jumpLinkStatus="None" jumpLinkType="Semicircle" jumpLinksReverse="false" lineColor="0" lineWidth="-1"/>
+    <element xsi:nil="true"/>
+    <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_n2MhYlwmEe2BLLaE9kCPBg" points="[684, 174, 685, 140]$[683, 201, 684, 167]"/>
+  </edges>
+  <edges xmi:id="_oFUigFwmEe2BLLaE9kCPBg" visible="true" type="4003" source="_my7tmVwmEe2BLLaE9kCPBg" target="_nasRIFwmEe2BLLaE9kCPBg">
+    <styles xsi:type="notation:ConnectorStyle" xmi:id="_oFUigVwmEe2BLLaE9kCPBg" roundedBendpointsRadius="0" routing="Rectilinear" smoothness="None" avoidObstructions="false" closestDistance="false" jumpLinkStatus="None" jumpLinkType="Semicircle" jumpLinksReverse="false" lineColor="0" lineWidth="-1"/>
+    <element xsi:nil="true"/>
+    <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_oFUiglwmEe2BLLaE9kCPBg" points="[686, 185, 684, 126]$[686, 226, 684, 167]"/>
+    <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_oFYz8FwmEe2BLLaE9kCPBg" id="target:TOP"/>
+  </edges>
+  <edges xmi:id="_oitCEFwmEe2BLLaE9kCPBg" visible="true" type="4021" source="_nasRIFwmEe2BLLaE9kCPBg" target="_my7tmVwmEe2BLLaE9kCPBg">
+    <styles xsi:type="notation:ConnectorStyle" xmi:id="_oitCEVwmEe2BLLaE9kCPBg" roundedBendpointsRadius="0" routing="Rectilinear" smoothness="None" avoidObstructions="false" closestDistance="false" jumpLinkStatus="None" jumpLinkType="Semicircle" jumpLinksReverse="false" lineColor="0" lineWidth="-1"/>
+    <element xsi:nil="true"/>
+    <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_oitCElwmEe2BLLaE9kCPBg" points="[0, 0, 19, 80]$[0, 27, 19, 107]$[-44, 27, -25, 107]$[-44, -80, -25, 0]$[-19, -80, 0, 0]"/>
+    <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_oi0W0FwmEe2BLLaE9kCPBg" id="source:BOTTOM"/>
+  </edges>
+</notation:Diagram>
