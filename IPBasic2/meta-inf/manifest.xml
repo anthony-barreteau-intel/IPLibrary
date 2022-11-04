@@ -1,0 +1,8 @@
+<project cofluent="8.1.1">
+	<ip path="/IPBasic2App/IPBasic2">
+		<version>1.0.0</version>
+		<description>IP to test cofluent library</description>
+	</ip>
+	<granularity time="LT" data="Data size" processing="No algorithm"/>
+	<compiler name="Windows MinGW 9.2.0"/>
+</project>
