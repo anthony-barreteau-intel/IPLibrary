@@ -1,0 +1,8 @@
+<project cofluent="8.1.1">
+	<ip path="/IP2AnthoCategoryApp/IP2AnthoCategory">
+		<version>1.0.0</version>
+		<description>Test Ip in category</description>
+	</ip>
+	<granularity time="AT" data="Data size" processing="Real algorithm"/>
+	<compiler name="Windows MinGW 9.2.0"/>
+</project>
